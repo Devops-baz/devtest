@@ -1,2 +1,2 @@
 This is our 2nd file
-changes made in file2 
+changes made in file 
